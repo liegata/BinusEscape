@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/2D Platformer Controller/Scenes/Demo.unity
+  - enabled: 0
+    path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/binus escape.unity
+    guid: 548efbe8196c7bb41a94d25d70cf82e6
+  - enabled: 1
+    path: Assets/Scenes/Anggrek.unity
+    guid: 80a1f48450fe70845b39eb3ad96a8ff8
+  - enabled: 1
+    path: Assets/Scenes/Syahdan.unity
+    guid: 708110e1240f14a45adb9cf3b03b743a
   m_configObjects: {}
