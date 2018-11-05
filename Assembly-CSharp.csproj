@@ -64,11 +64,13 @@
     <Compile Include="Assets\scripts\Bullet.cs" />
     <Compile Include="Assets\scripts\CameraScript.cs" />
     <Compile Include="Assets\scripts\ChangeScene.cs" />
-    <Compile Include="Assets\scripts\CharacterController2D.cs" />
-    <Compile Include="Assets\scripts\MovementButton.cs" />
-    <Compile Include="Assets\scripts\Patrol.cs" />
-    <Compile Include="Assets\scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\scripts\PlayerShooting.cs" />
+    <Compile Include="Assets\scripts\Enemy\EnemyStatus.cs" />
+    <Compile Include="Assets\scripts\Enemy\Opossum\Patrol.cs" />
+    <Compile Include="Assets\scripts\PlayerScript\CharacterController2D.cs" />
+    <Compile Include="Assets\scripts\PlayerScript\MovementButton.cs" />
+    <Compile Include="Assets\scripts\PlayerScript\PlayerMovement.cs" />
+    <Compile Include="Assets\scripts\PlayerScript\PlayerShooting.cs" />
+    <Compile Include="Assets\scripts\PlayerScript\PlayerStatus.cs" />
     <Reference Include="Cinemachine">
       <HintPath>D:/GitHub/BinusEscape/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
