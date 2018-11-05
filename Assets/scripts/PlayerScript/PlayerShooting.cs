@@ -75,7 +75,6 @@ public class PlayerShooting : MonoBehaviour {
             BulletAmmo[BulletSelect]--;
             BulletIndicator[BulletSelect].text = BulletAmmo[BulletSelect].ToString();
             isShooting = false;
-            Debug.Log("Shoot!");
         }
         else {
             isShooting = false;
@@ -88,7 +87,6 @@ public class PlayerShooting : MonoBehaviour {
     {
         StopBullet = false;
         isShooting = true;
-        Debug.Log(BulletFrequency[BulletSelect]);
     }
 
     public void ChangeBullet() {

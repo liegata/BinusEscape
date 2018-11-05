@@ -8,6 +8,8 @@ TagManager:
   - Ammunition1
   - Ammunition2
   - Ammunition3
+  - Bullet
+  - Enemy
   layers:
   - Default
   - TransparentFX
