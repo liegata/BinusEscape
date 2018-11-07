@@ -17,6 +17,10 @@ public class Patrol : MonoBehaviour {
         {
             opossumPatrol();
         }
+        if(gameObject.name == "maba")
+        {
+            opossumPatrol();
+        }
     }
 
     private void opossumPatrol()

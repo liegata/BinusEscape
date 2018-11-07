@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: ae9745d79e45a9640b3c9839f8f22f52
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_0
+    21300002: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_1
+    21300004: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_2
+    21300006: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_3
+    21300008: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_4
+    21300010: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_5
+    21300012: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_6
+    21300014: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_7
+    21300016: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_8
+    21300018: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_9
+    21300020: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_10
+    21300022: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_11
+    21300024: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_12
+    21300026: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_13
+    21300028: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_14
+    21300030: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_15
+    21300032: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_16
+    21300034: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_17
+    21300036: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_18
+    21300038: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_19
+    21300040: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_20
+    21300042: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_21
+    21300044: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_22
+    21300046: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_23
+    21300048: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_24
+    21300050: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_25
+    21300052: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_26
+    21300054: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_27
+    21300056: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_28
+    21300058: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_29
+    21300060: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_30
+    21300062: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_31
+    21300064: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_32
+    21300066: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_33
+    21300068: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_34
+    21300070: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_35
+    21300072: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_36
+    21300074: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_37
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 598
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda56c9c744d6e34ead9c51252a639aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 598
+        width: 158
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ef39d1aeb5d0478ac7eaf4be2e3fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 594
+        width: 147
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2047dd746310848b2e771e2773b646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 594
+        width: 147
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5221a30446fa96e40bd626eaf15fffcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 591
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3679985b1b3e5ce468219fb4b6895822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 591
+        width: 116
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f211d173b6931648a0ec1affe002964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 591
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5f5f95cd662cd46844c442592fa1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_7
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 591
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81a8cf301ee5214a9e52e03cb8fc0f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_8
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 590
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18546ba3fd0daa42853702631bc3302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_9
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 590
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac01c4ed9c6d0242b8f702ed4a4f714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_10
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 590
+        width: 143
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f626e3536d64d4745ac87e586e826d4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_11
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 590
+        width: 143
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e36e804f0bdf04ea149909bfcd3cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 297
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de75e2e221f693745a58e619db9479a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 297
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f661f8625b3700468501a6c9486f635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 310
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171270c335afc6146b83a5cbc01f9052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_15
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 310
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82faabc9789e314ca5df2784922e718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 308
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56636dc3eef60f4281edd62cc05ea94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 308
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2702e5754fd563f46be397a144f8701c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_18
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 298
+        width: 117
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd452a4e1944831468b2e0e83bc3ce77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_19
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 298
+        width: 117
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d5af25834c1754d9b270f92e760f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_20
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 297
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f251898c2949ad4fa55ac6abb11a536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_21
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 297
+        width: 96
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7ca6deae1b28243a62b521b35cec78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_22
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 298
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc06c12996bd8547b56f796d987cd1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_23
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 298
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd6c2b57bd088240bc6929cd1af96e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 144
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92e2e104d00dbd468cab3782c7336e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 144
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3d53807c152c64eab13828aa235e62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 18
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55a7a6ffaa5c0944b62928890746a51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 18
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36412a46cb538f549a0f623eed4347c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 16
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6fc9997b4d2834e84f25d807837cde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 16
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9882d9d0ab57184284389296ebf10f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_30
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 5
+        width: 121
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e34fa81701ac419aed1f223887367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_31
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 5
+        width: 121
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da5648c3dea17f488a47a6c344e3ff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_32
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 9
+        width: 91
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041a4ec6bb1e4247be081402ef7292f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_33
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 9
+        width: 91
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8390401e9b984304f93b9a04969a7571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_34
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 9
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8be33a6e6e2678488940accd4b22fd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_35
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 9
+        width: 121
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cea29703234864ebff947a8b52dcdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_36
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 0
+        width: 39
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3167669f402e8914785d7ecd06fb4868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-animation-createjs-animation-5ab7fd2d0562d2.0229141415220073410221_37
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 0
+        width: 39
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2f0de6696ed4a45a8ca66ffbff321b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 462a0c05b0a7e5546baba4a5f14352c7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
